@@ -1,0 +1,27 @@
+Software Developer Intern Ð Machine Learning and Backend Development
+
+We are looking for a motivated Computer Science student with strong programming skills and interest in Artificial Intelligence and Machine Learning.
+
+Responsibilities
+- Develop and test software applications using Python, C++, and Java.
+- Work on machine learning models for data analysis and prediction tasks.
+- Build backend services and APIs using REST APIs and integrate with cloud platforms.
+- Contribute to web interface and UI development for software platforms.
+- Collaborate with team members to design scalable software systems.
+- Implement object-oriented programming principles to build modular and reusable code.
+
+Required Skills
+- Programming: Python, C++, Java, SQL
+- Machine Learning: Scikit-learn, NumPy, Pandas, Matplotlib
+- Computer Vision: OpenCV
+- Software Development: Object-Oriented Programming, Data Structures
+- Tools: Linux, VS Code, Git
+- Cloud Platforms: Microsoft Azure or similar cloud services
+- Strong problem solving and analytical skills
+- Good communication and teamwork abilities
+
+Preferred Qualifications
+- Experience working on machine learning projects or research studies
+- Knowledge of REST APIs and backend development
+- Experience building software applications and testing code
+- Ability to quickly learn new technologies and work in a collaborative environment
