@@ -30,3 +30,4 @@ This project is a C++ based Resume Match Analyzer that compares a resume with a 
 6. Missing keywords and suggestions are displayed.
 
 ## Example Output
+The output is uploaded in the repository (Section is named as Output.jpg).
